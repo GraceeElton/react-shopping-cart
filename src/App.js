@@ -7,8 +7,7 @@ import Navigation from "./components/Navigation";
 import Products from "./components/Products";
 import ShoppingCart from "./components/ShoppingCart";
 
-//context
-
+//my contexts
 import { ProductContext } from "../src/contexts/ProductContext";
 import { CartContext } from "../src/contexts/CartContext";
 

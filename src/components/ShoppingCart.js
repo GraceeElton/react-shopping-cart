@@ -1,4 +1,6 @@
 import React, { useContext } from "react";
+
+//context
 import { CartContext } from "../contexts/CartContext";
 
 // Components
